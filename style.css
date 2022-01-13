@@ -1,0 +1,53 @@
+.topcontainer{
+    background-color: #AEFEFF;
+    
+
+}
+body{
+    background-color: #072227;
+}
+.middle-container{
+   background-color: #4FBDBA;
+}
+.bottom-container{
+    background-color: #35858B;
+    
+}
+h1{  
+    margin: 0 auto 0 auto;
+   width: 20%;
+   font-family: cursive;
+}
+.ima{
+    margin-left: 500px;
+}
+.parah1{
+    margin: 0 auto 0 auto;
+    width: 40%;
+    color: #072227;
+    font-family: cursive;
+}
+.img-div{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.head{
+    color: white;
+    width: 40%;
+}
+.parah2{
+    margin: 0 auto 0 auto;
+    width: 40%;
+    color: white;
+    font-family: cursive;
+}
+.bottom-most{
+    background-color: #072227;
+}
+.img-div2{
+    margin-left: 570px;
+}
+.form1{
+    background-color: #980F5A;
+    color: white;
+}
